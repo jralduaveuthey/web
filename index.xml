@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://jralduaveuthey.github.io/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Projects_2</title>
+      <link>https://jralduaveuthey.github.io/web/projects_2/</link>
+      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
+      
+      <guid>https://jralduaveuthey.github.io/web/projects_2/</guid>
+      <description>Projects are paginated with only three posts here for example. You can set the number of entries to show on this page with the &amp;ldquo;pagination&amp;rdquo; setting in the config file.</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://jralduaveuthey.github.io/web/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -27,29 +36,11 @@ Your Name Email Address An email address is required.  Message   </description>
     </item>
     
     <item>
-      <title>Project I: Dash deployed in website</title>
-      <link>https://jralduaveuthey.github.io/web/projects_2/project-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jralduaveuthey.github.io/web/projects_2/project-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Project II: Streamlit deployed in website</title>
       <link>https://jralduaveuthey.github.io/web/projects/project-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jralduaveuthey.github.io/web/projects/project-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project II: Streamlit deployed in website</title>
-      <link>https://jralduaveuthey.github.io/web/projects_2/project-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jralduaveuthey.github.io/web/projects_2/project-2/</guid>
       <description></description>
     </item>
     
