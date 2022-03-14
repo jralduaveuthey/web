@@ -34,15 +34,15 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jralduaveuthey.github.io/web/projects/project-3/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://jralduaveuthey.github.io/web/projects/project-1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://jralduaveuthey.github.io/web/projects/project-2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jralduaveuthey.github.io/web/projects/project-3/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
